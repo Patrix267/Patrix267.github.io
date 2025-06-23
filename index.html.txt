@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="#intro">Inicio</a></li>
                 <li><a href="#datos">Datos Curiosos</a></li>
-                <li><a href="#exploracion">ExploraciÛn</a></li>
+                <li><a href="#exploracion">Exploracion</a></li>
             </ul>
         </nav>
     </header>
@@ -22,28 +22,28 @@
     <main>
         <section id="intro">
             <h2>Bienvenidos al Cosmos</h2>
-            <p>El universo es un lugar vasto y misterioso, lleno de galaxias, estrellas y planetas. Desde la Tierra, hemos comenzado a explorar sus secretos, descubriendo maravillas que desafÌan nuestra imaginaciÛn.</p>
+            <p>El universo es un lugar vasto y misterioso, lleno de galaxias, estrellas y planetas. Desde la Tierra, hemos comenzado a explorar sus secretos, descubriendo maravillas que desaf√≠an nuestra imaginaci√≥n.</p>
             <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564" alt="Galaxia en el espacio" class="imagen">
         </section>
 
         <section id="datos">
             <h2>Datos Curiosos</h2>
-            <p>AquÌ tienes algunos hechos fascinantes sobre el universo:</p>
+            <p>Aqu√≠ tienes algunos hechos fascinantes sobre el universo:</p>
             <ul>
-                <li>El universo tiene aproximadamente 13.8 mil millones de aÒos.</li>
-                <li>El Sol es una de las 100 mil millones de estrellas en la VÌa L·ctea.</li>
-                <li>La luz de las estrellas puede tardar millones de aÒos en llegar a nosotros.</li>
+                <li>El universo tiene aproximadamente 13.8 mil millones de a√±os.</li>
+                <li>El Sol es una de las 100 mil millones de estrellas en la Via Lactea.</li>
+                <li>La luz de las estrellas puede tardar millones de a√±os en llegar a nosotros.</li>
             </ul>
         </section>
 
         <section id="exploracion">
-            <h2>ExploraciÛn Espacial</h2>
-            <p>La humanidad ha enviado sondas y telescopios para estudiar el cosmos. La NASA lidera misiones como el telescopio James Webb, que captura im·genes de galaxias lejanas. <a href="https://www.nasa.gov" target="_blank">Visita la NASA</a> para saber m·s.</p>
+            <h2>Exploraci√≥n Espacial</h2>
+            <p>La humanidad ha enviado sondas y telescopios para estudiar el cosmos. La NASA lidera misiones como el telescopio James Webb, que captura im√°genes de galaxias lejanas. <a href="https://www.nasa.gov" target="_blank">Visita la NASA</a> para saber m√°s.</p>
         </section>
     </main>
 
     <footer>
-        <p>Creado por Jeremy DÌaz | 2025</p>
+        <p>Creado por Geremy Diaz | 2025</p>
     </footer>
 </body>
 </html>
